@@ -1,4 +1,4 @@
-# live-preview.nvim - Neovim Plugin for Live-Previewing (Markdown - PDF)
+# Neovim Plugin for Live-Previewing (Markdown - PDF)
 
 ## Features
 
